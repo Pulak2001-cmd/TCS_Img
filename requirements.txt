@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful 
+flask-cors
+pyrebase
+gunicorn
+urllib3
+uplink
